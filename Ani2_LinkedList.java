@@ -92,6 +92,5 @@ public class Ani2_LinkedList {
         ll.deleteLast();
         ll.traverse();
         ll.deleteFirst();
-        ll.traverse();
     }
 }
